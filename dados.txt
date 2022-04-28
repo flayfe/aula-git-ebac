@@ -1,0 +1,12 @@
+Dados do aluno
+
+-Primeiro Nome: Flavia 
+-Profissão: Analista de Qualidade de Software Jr
+-Cidade: Brasília
+-O que faz nas horas vagas: Estudo e brinco com minha família
+-Feedback sobre o curso Qualidade de Software: O curso em si é muito bom, mas sempre tem pontos a melhorar
+-Feedback sobre a plataforma de estudo da EBAC: A plataforma é bem dinâmica
+
+Obrigado!!!
+
+
